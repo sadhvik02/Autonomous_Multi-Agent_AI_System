@@ -1,0 +1,17 @@
+Moment,Agent,Latency,Score
+Moment 1,Discovery,1.1920928955078125e-05,100
+Moment 1,Analysis,3.0994415283203125e-06,40
+Moment 1,Strategy,9.5367431640625e-07,90
+Moment 1,Proposal,2.1457672119140625e-06,95
+Moment 2,Discovery,5.0067901611328125e-06,100
+Moment 2,Analysis,2.1457672119140625e-06,55
+Moment 2,Strategy,9.5367431640625e-07,90
+Moment 2,Proposal,1.1920928955078125e-06,95
+Moment 3,Discovery,3.0994415283203125e-06,100
+Moment 3,Analysis,2.1457672119140625e-06,55
+Moment 3,Strategy,7.152557373046875e-07,90
+Moment 3,Proposal,9.5367431640625e-07,95
+Moment 4,Discovery,2.1457672119140625e-06,100
+Moment 4,Analysis,1.9073486328125e-06,10
+Moment 4,Strategy,0.0,90
+Moment 4,Proposal,9.5367431640625e-07,95

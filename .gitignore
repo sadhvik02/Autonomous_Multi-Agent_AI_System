@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# Performance Reports & Generated Docs
+performance_reports/
+FINAL_REPORT.docx
+
+# IDEs & System
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment Variables
+.env

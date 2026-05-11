@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Pure Services 1",
+    "category": "Real Estate",
+    "location": "London",
+    "website": null,
+    "social_presence": "Twitter, Facebook",
+    "contact_info": "hello@pureservices1.io"
+  },
+  {
+    "name": "Pure Group 2",
+    "category": "Manufacturing",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": "Facebook, LinkedIn, Instagram",
+    "contact_info": "hello@puregroup2.io"
+  },
+  {
+    "name": "Solid Lab 3",
+    "category": "Retail",
+    "location": "Berlin",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@solidlab3.io"
+  },
+  {
+    "name": "Elite Hub 4",
+    "category": "Logistics",
+    "location": "New York",
+    "website": "https://www.elitehub4.com",
+    "social_presence": "Instagram",
+    "contact_info": "hello@elitehub4.io"
+  },
+  {
+    "name": "Pure Hub 5",
+    "category": "Retail",
+    "location": "London",
+    "website": "https://www.purehub5.com",
+    "social_presence": "Twitter, Instagram, LinkedIn",
+    "contact_info": "hello@purehub5.io"
+  },
+  {
+    "name": "Green Services 6",
+    "category": "Fintech",
+    "location": "Tokyo",
+    "website": "https://www.greenservices6.com",
+    "social_presence": "Instagram, Twitter, LinkedIn",
+    "contact_info": "hello@greenservices6.io"
+  },
+  {
+    "name": "Prime Works 7",
+    "category": "Manufacturing",
+    "location": "New York",
+    "website": "https://www.primeworks7.com",
+    "social_presence": "Facebook, LinkedIn, Twitter",
+    "contact_info": "hello@primeworks7.io"
+  },
+  {
+    "name": "Tech Works 8",
+    "category": "Retail",
+    "location": "San Francisco",
+    "website": null,
+    "social_presence": "Instagram, LinkedIn",
+    "contact_info": "hello@techworks8.io"
+  },
+  {
+    "name": "Elite Dynamics 9",
+    "category": "Retail",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": "Twitter",
+    "contact_info": "hello@elitedynamics9.io"
+  },
+  {
+    "name": "Prime Lab 10",
+    "category": "Real Estate",
+    "location": "London",
+    "website": "https://www.primelab10.com",
+    "social_presence": "Instagram, LinkedIn, Twitter",
+    "contact_info": "hello@primelab10.io"
+  },
+  {
+    "name": "Green Consulting 11",
+    "category": "Manufacturing",
+    "location": "Sydney",
+    "website": "https://www.greenconsulting11.com",
+    "social_presence": "LinkedIn, Facebook",
+    "contact_info": "hello@greenconsulting11.io"
+  },
+  {
+    "name": "Solid Group 12",
+    "category": "Real Estate",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@solidgroup12.io"
+  },
+  {
+    "name": "Urban Solutions 13",
+    "category": "Logistics",
+    "location": "London",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@urbansolutions13.io"
+  },
+  {
+    "name": "Urban Consulting 14",
+    "category": "Manufacturing",
+    "location": "Tokyo",
+    "website": null,
+    "social_presence": "LinkedIn, Twitter, Facebook",
+    "contact_info": "hello@urbanconsulting14.io"
+  },
+  {
+    "name": "Bright Lab 15",
+    "category": "Education",
+    "location": "Berlin",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@brightlab15.io"
+  },
+  {
+    "name": "Prime Group 16",
+    "category": "Real Estate",
+    "location": "Toronto",
+    "website": null,
+    "social_presence": "Instagram, LinkedIn",
+    "contact_info": "hello@primegroup16.io"
+  },
+  {
+    "name": "Elite Consulting 17",
+    "category": "Real Estate",
+    "location": "San Francisco",
+    "website": "https://www.eliteconsulting17.com",
+    "social_presence": null,
+    "contact_info": "hello@eliteconsulting17.io"
+  },
+  {
+    "name": "Tech Lab 18",
+    "category": "Retail",
+    "location": "Sydney",
+    "website": "https://www.techlab18.com",
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@techlab18.io"
+  },
+  {
+    "name": "Bright Works 19",
+    "category": "Manufacturing",
+    "location": "New York",
+    "website": "https://www.brightworks19.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@brightworks19.io"
+  },
+  {
+    "name": "Tech Consulting 20",
+    "category": "Digital Marketing",
+    "location": "Toronto",
+    "website": "https://www.techconsulting20.com",
+    "social_presence": "Twitter, Facebook",
+    "contact_info": "hello@techconsulting20.io"
+  },
+  {
+    "name": "Pure Group 21",
+    "category": "Logistics",
+    "location": "Sydney",
+    "website": "https://www.puregroup21.com",
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@puregroup21.io"
+  },
+  {
+    "name": "Green Services 22",
+    "category": "Education",
+    "location": "Sydney",
+    "website": "https://www.greenservices22.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@greenservices22.io"
+  },
+  {
+    "name": "Pure Consulting 23",
+    "category": "Manufacturing",
+    "location": "Tokyo",
+    "website": null,
+    "social_presence": "Facebook",
+    "contact_info": "hello@pureconsulting23.io"
+  },
+  {
+    "name": "Prime Services 24",
+    "category": "Education",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@primeservices24.io"
+  },
+  {
+    "name": "Green Consulting 25",
+    "category": "Fintech",
+    "location": "Berlin",
+    "website": null,
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@greenconsulting25.io"
+  },
+  {
+    "name": "Prime Lab 26",
+    "category": "Healthcare",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": "Facebook, LinkedIn, Twitter",
+    "contact_info": "hello@primelab26.io"
+  },
+  {
+    "name": "Elite Lab 27",
+    "category": "Healthcare",
+    "location": "New York",
+    "website": "https://www.elitelab27.com",
+    "social_presence": "Instagram, LinkedIn, Twitter",
+    "contact_info": "hello@elitelab27.io"
+  },
+  {
+    "name": "Green Works 28",
+    "category": "Manufacturing",
+    "location": "San Francisco",
+    "website": "https://www.greenworks28.com",
+    "social_presence": "Twitter, Instagram",
+    "contact_info": "hello@greenworks28.io"
+  },
+  {
+    "name": "Urban Consulting 29",
+    "category": "Healthcare",
+    "location": "New York",
+    "website": "https://www.urbanconsulting29.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@urbanconsulting29.io"
+  },
+  {
+    "name": "Swift Lab 30",
+    "category": "Real Estate",
+    "location": "London",
+    "website": "https://www.swiftlab30.com",
+    "social_presence": "LinkedIn, Twitter, Facebook",
+    "contact_info": "hello@swiftlab30.io"
+  },
+  {
+    "name": "Prime Services 31",
+    "category": "Manufacturing",
+    "location": "San Francisco",
+    "website": "https://www.primeservices31.com",
+    "social_presence": "Instagram, Twitter, LinkedIn",
+    "contact_info": "hello@primeservices31.io"
+  },
+  {
+    "name": "Global Lab 32",
+    "category": "Digital Marketing",
+    "location": "San Francisco",
+    "website": "https://www.globallab32.com",
+    "social_presence": null,
+    "contact_info": "hello@globallab32.io"
+  },
+  {
+    "name": "Green Lab 33",
+    "category": "Education",
+    "location": "San Francisco",
+    "website": "https://www.greenlab33.com",
+    "social_presence": "Twitter",
+    "contact_info": "hello@greenlab33.io"
+  },
+  {
+    "name": "Tech Solutions 34",
+    "category": "Education",
+    "location": "Toronto",
+    "website": "https://www.techsolutions34.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@techsolutions34.io"
+  },
+  {
+    "name": "Urban Lab 35",
+    "category": "Manufacturing",
+    "location": "London",
+    "website": "https://www.urbanlab35.com",
+    "social_presence": "Twitter, Facebook, LinkedIn",
+    "contact_info": "hello@urbanlab35.io"
+  },
+  {
+    "name": "Swift Dynamics 36",
+    "category": "Logistics",
+    "location": "Mumbai",
+    "website": "https://www.swiftdynamics36.com",
+    "social_presence": null,
+    "contact_info": "hello@swiftdynamics36.io"
+  },
+  {
+    "name": "Solid Dynamics 37",
+    "category": "Real Estate",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": "Twitter, LinkedIn, Instagram",
+    "contact_info": "hello@soliddynamics37.io"
+  },
+  {
+    "name": "Elite Group 38",
+    "category": "Retail",
+    "location": "Berlin",
+    "website": "https://www.elitegroup38.com",
+    "social_presence": null,
+    "contact_info": "hello@elitegroup38.io"
+  },
+  {
+    "name": "Solid Lab 39",
+    "category": "Digital Marketing",
+    "location": "Toronto",
+    "website": "https://www.solidlab39.com",
+    "social_presence": "Twitter",
+    "contact_info": "hello@solidlab39.io"
+  },
+  {
+    "name": "Urban Solutions 40",
+    "category": "Retail",
+    "location": "New York",
+    "website": null,
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@urbansolutions40.io"
+  },
+  {
+    "name": "Global Group 41",
+    "category": "Logistics",
+    "location": "San Francisco",
+    "website": "https://www.globalgroup41.com",
+    "social_presence": "Instagram, LinkedIn, Twitter",
+    "contact_info": "hello@globalgroup41.io"
+  },
+  {
+    "name": "Elite Dynamics 42",
+    "category": "Retail",
+    "location": "Mumbai",
+    "website": "https://www.elitedynamics42.com",
+    "social_presence": "Instagram, LinkedIn",
+    "contact_info": "hello@elitedynamics42.io"
+  },
+  {
+    "name": "Global Services 43",
+    "category": "Education",
+    "location": "London",
+    "website": "https://www.globalservices43.com",
+    "social_presence": "LinkedIn, Facebook",
+    "contact_info": "hello@globalservices43.io"
+  },
+  {
+    "name": "Elite Services 44",
+    "category": "Digital Marketing",
+    "location": "London",
+    "website": "https://www.eliteservices44.com",
+    "social_presence": "LinkedIn, Instagram, Twitter",
+    "contact_info": "hello@eliteservices44.io"
+  },
+  {
+    "name": "Swift Consulting 45",
+    "category": "Real Estate",
+    "location": "London",
+    "website": null,
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@swiftconsulting45.io"
+  },
+  {
+    "name": "Global Solutions 46",
+    "category": "Manufacturing",
+    "location": "London",
+    "website": "https://www.globalsolutions46.com",
+    "social_presence": "LinkedIn, Facebook, Twitter",
+    "contact_info": "hello@globalsolutions46.io"
+  },
+  {
+    "name": "Solid Consulting 47",
+    "category": "Fintech",
+    "location": "New York",
+    "website": null,
+    "social_presence": "LinkedIn, Twitter, Facebook",
+    "contact_info": "hello@solidconsulting47.io"
+  },
+  {
+    "name": "Solid Group 48",
+    "category": "Healthcare",
+    "location": "Toronto",
+    "website": "https://www.solidgroup48.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@solidgroup48.io"
+  },
+  {
+    "name": "Urban Dynamics 49",
+    "category": "Digital Marketing",
+    "location": "Sydney",
+    "website": "https://www.urbandynamics49.com",
+    "social_presence": null,
+    "contact_info": "hello@urbandynamics49.io"
+  },
+  {
+    "name": "Pure Lab 50",
+    "category": "Education",
+    "location": "Toronto",
+    "website": null,
+    "social_presence": "LinkedIn, Facebook, Instagram",
+    "contact_info": "hello@purelab50.io"
+  },
+  {
+    "name": "Prime Solutions 51",
+    "category": "Education",
+    "location": "Tokyo",
+    "website": "https://www.primesolutions51.com",
+    "social_presence": null,
+    "contact_info": "hello@primesolutions51.io"
+  },
+  {
+    "name": "Tech Hub 52",
+    "category": "Education",
+    "location": "Tokyo",
+    "website": null,
+    "social_presence": "Twitter, Facebook",
+    "contact_info": "hello@techhub52.io"
+  },
+  {
+    "name": "Urban Solutions 53",
+    "category": "Logistics",
+    "location": "Mumbai",
+    "website": "https://www.urbansolutions53.com",
+    "social_presence": "Facebook, Instagram",
+    "contact_info": "hello@urbansolutions53.io"
+  },
+  {
+    "name": "Tech Hub 54",
+    "category": "Logistics",
+    "location": "Berlin",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@techhub54.io"
+  },
+  {
+    "name": "Urban Hub 55",
+    "category": "Retail",
+    "location": "Berlin",
+    "website": "https://www.urbanhub55.com",
+    "social_presence": null,
+    "contact_info": "hello@urbanhub55.io"
+  },
+  {
+    "name": "Green Hub 56",
+    "category": "Retail",
+    "location": "London",
+    "website": null,
+    "social_presence": "Instagram, LinkedIn, Facebook",
+    "contact_info": "hello@greenhub56.io"
+  },
+  {
+    "name": "Swift Group 57",
+    "category": "Manufacturing",
+    "location": "London",
+    "website": null,
+    "social_presence": "LinkedIn, Instagram, Facebook",
+    "contact_info": "hello@swiftgroup57.io"
+  },
+  {
+    "name": "Solid Hub 58",
+    "category": "Retail",
+    "location": "San Francisco",
+    "website": null,
+    "social_presence": "Facebook, Twitter",
+    "contact_info": "hello@solidhub58.io"
+  },
+  {
+    "name": "Bright Dynamics 59",
+    "category": "Fintech",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@brightdynamics59.io"
+  },
+  {
+    "name": "Urban Solutions 60",
+    "category": "Retail",
+    "location": "Sydney",
+    "website": "https://www.urbansolutions60.com",
+    "social_presence": "LinkedIn",
+    "contact_info": "hello@urbansolutions60.io"
+  },
+  {
+    "name": "Prime Works 61",
+    "category": "Fintech",
+    "location": "Mumbai",
+    "website": "https://www.primeworks61.com",
+    "social_presence": "Instagram",
+    "contact_info": "hello@primeworks61.io"
+  },
+  {
+    "name": "Tech Lab 62",
+    "category": "Education",
+    "location": "Tokyo",
+    "website": "https://www.techlab62.com",
+    "social_presence": "Facebook, Twitter",
+    "contact_info": "hello@techlab62.io"
+  },
+  {
+    "name": "Pure Services 63",
+    "category": "Fintech",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": "Instagram, Facebook",
+    "contact_info": "hello@pureservices63.io"
+  },
+  {
+    "name": "Solid Works 64",
+    "category": "Manufacturing",
+    "location": "Toronto",
+    "website": "https://www.solidworks64.com",
+    "social_presence": "LinkedIn, Instagram, Facebook",
+    "contact_info": "hello@solidworks64.io"
+  },
+  {
+    "name": "Solid Solutions 65",
+    "category": "Logistics",
+    "location": "New York",
+    "website": "https://www.solidsolutions65.com",
+    "social_presence": "Facebook, LinkedIn, Twitter",
+    "contact_info": "hello@solidsolutions65.io"
+  },
+  {
+    "name": "Elite Lab 66",
+    "category": "Digital Marketing",
+    "location": "Berlin",
+    "website": "https://www.elitelab66.com",
+    "social_presence": "Instagram, LinkedIn",
+    "contact_info": "hello@elitelab66.io"
+  },
+  {
+    "name": "Pure Hub 67",
+    "category": "Digital Marketing",
+    "location": "Mumbai",
+    "website": "https://www.purehub67.com",
+    "social_presence": null,
+    "contact_info": "hello@purehub67.io"
+  },
+  {
+    "name": "Tech Hub 68",
+    "category": "Fintech",
+    "location": "Toronto",
+    "website": null,
+    "social_presence": "LinkedIn, Instagram, Facebook",
+    "contact_info": "hello@techhub68.io"
+  },
+  {
+    "name": "Urban Works 69",
+    "category": "Real Estate",
+    "location": "San Francisco",
+    "website": "https://www.urbanworks69.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@urbanworks69.io"
+  },
+  {
+    "name": "Bright Works 70",
+    "category": "Manufacturing",
+    "location": "New York",
+    "website": "https://www.brightworks70.com",
+    "social_presence": "Instagram, Twitter, Facebook",
+    "contact_info": "hello@brightworks70.io"
+  },
+  {
+    "name": "Solid Group 71",
+    "category": "Manufacturing",
+    "location": "Tokyo",
+    "website": "https://www.solidgroup71.com",
+    "social_presence": null,
+    "contact_info": "hello@solidgroup71.io"
+  },
+  {
+    "name": "Tech Services 72",
+    "category": "Real Estate",
+    "location": "Toronto",
+    "website": "https://www.techservices72.com",
+    "social_presence": "Twitter, LinkedIn",
+    "contact_info": "hello@techservices72.io"
+  },
+  {
+    "name": "Solid Lab 73",
+    "category": "Manufacturing",
+    "location": "San Francisco",
+    "website": "https://www.solidlab73.com",
+    "social_presence": "Instagram, Twitter",
+    "contact_info": "hello@solidlab73.io"
+  },
+  {
+    "name": "Prime Hub 74",
+    "category": "Digital Marketing",
+    "location": "Mumbai",
+    "website": "https://www.primehub74.com",
+    "social_presence": "LinkedIn, Instagram, Twitter",
+    "contact_info": "hello@primehub74.io"
+  },
+  {
+    "name": "Tech Solutions 75",
+    "category": "Real Estate",
+    "location": "London",
+    "website": "https://www.techsolutions75.com",
+    "social_presence": null,
+    "contact_info": "hello@techsolutions75.io"
+  },
+  {
+    "name": "Green Hub 76",
+    "category": "Healthcare",
+    "location": "Sydney",
+    "website": "https://www.greenhub76.com",
+    "social_presence": "Facebook, Twitter, LinkedIn",
+    "contact_info": "hello@greenhub76.io"
+  },
+  {
+    "name": "Solid Lab 77",
+    "category": "Education",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": "LinkedIn, Twitter",
+    "contact_info": "hello@solidlab77.io"
+  },
+  {
+    "name": "Pure Hub 78",
+    "category": "Healthcare",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": "LinkedIn, Instagram, Facebook",
+    "contact_info": "hello@purehub78.io"
+  },
+  {
+    "name": "Solid Lab 79",
+    "category": "Real Estate",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": "LinkedIn, Instagram, Twitter",
+    "contact_info": "hello@solidlab79.io"
+  },
+  {
+    "name": "Urban Group 80",
+    "category": "Real Estate",
+    "location": "Sydney",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@urbangroup80.io"
+  },
+  {
+    "name": "Elite Dynamics 81",
+    "category": "Healthcare",
+    "location": "London",
+    "website": null,
+    "social_presence": "Twitter",
+    "contact_info": "hello@elitedynamics81.io"
+  },
+  {
+    "name": "Swift Services 82",
+    "category": "Manufacturing",
+    "location": "Berlin",
+    "website": null,
+    "social_presence": "Facebook",
+    "contact_info": "hello@swiftservices82.io"
+  },
+  {
+    "name": "Elite Hub 83",
+    "category": "Logistics",
+    "location": "London",
+    "website": null,
+    "social_presence": "Twitter, LinkedIn",
+    "contact_info": "hello@elitehub83.io"
+  },
+  {
+    "name": "Solid Services 84",
+    "category": "Education",
+    "location": "Mumbai",
+    "website": "https://www.solidservices84.com",
+    "social_presence": "Facebook, Instagram",
+    "contact_info": "hello@solidservices84.io"
+  },
+  {
+    "name": "Green Consulting 85",
+    "category": "Digital Marketing",
+    "location": "Berlin",
+    "website": "https://www.greenconsulting85.com",
+    "social_presence": "LinkedIn, Facebook, Instagram",
+    "contact_info": "hello@greenconsulting85.io"
+  },
+  {
+    "name": "Pure Hub 86",
+    "category": "Manufacturing",
+    "location": "San Francisco",
+    "website": "https://www.purehub86.com",
+    "social_presence": "Twitter, Instagram, LinkedIn",
+    "contact_info": "hello@purehub86.io"
+  },
+  {
+    "name": "Solid Works 87",
+    "category": "Retail",
+    "location": "Sydney",
+    "website": "https://www.solidworks87.com",
+    "social_presence": null,
+    "contact_info": "hello@solidworks87.io"
+  },
+  {
+    "name": "Pure Services 88",
+    "category": "Digital Marketing",
+    "location": "Tokyo",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@pureservices88.io"
+  },
+  {
+    "name": "Tech Works 89",
+    "category": "Digital Marketing",
+    "location": "Berlin",
+    "website": "https://www.techworks89.com",
+    "social_presence": null,
+    "contact_info": "hello@techworks89.io"
+  },
+  {
+    "name": "Bright Solutions 90",
+    "category": "Digital Marketing",
+    "location": "Mumbai",
+    "website": "https://www.brightsolutions90.com",
+    "social_presence": null,
+    "contact_info": "hello@brightsolutions90.io"
+  },
+  {
+    "name": "Swift Services 91",
+    "category": "Logistics",
+    "location": "San Francisco",
+    "website": null,
+    "social_presence": "LinkedIn, Facebook",
+    "contact_info": "hello@swiftservices91.io"
+  },
+  {
+    "name": "Bright Dynamics 92",
+    "category": "Logistics",
+    "location": "Tokyo",
+    "website": "https://www.brightdynamics92.com",
+    "social_presence": null,
+    "contact_info": "hello@brightdynamics92.io"
+  },
+  {
+    "name": "Global Works 93",
+    "category": "Real Estate",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": "Twitter",
+    "contact_info": "hello@globalworks93.io"
+  },
+  {
+    "name": "Pure Services 94",
+    "category": "Fintech",
+    "location": "London",
+    "website": "https://www.pureservices94.com",
+    "social_presence": "Instagram, LinkedIn, Twitter",
+    "contact_info": "hello@pureservices94.io"
+  },
+  {
+    "name": "Bright Group 95",
+    "category": "Logistics",
+    "location": "London",
+    "website": null,
+    "social_presence": "Facebook",
+    "contact_info": "hello@brightgroup95.io"
+  },
+  {
+    "name": "Bright Consulting 96",
+    "category": "Education",
+    "location": "Toronto",
+    "website": "https://www.brightconsulting96.com",
+    "social_presence": "Facebook",
+    "contact_info": "hello@brightconsulting96.io"
+  },
+  {
+    "name": "Prime Solutions 97",
+    "category": "Healthcare",
+    "location": "Berlin",
+    "website": "https://www.primesolutions97.com",
+    "social_presence": "Twitter, Facebook",
+    "contact_info": "hello@primesolutions97.io"
+  },
+  {
+    "name": "Prime Solutions 98",
+    "category": "Retail",
+    "location": "Mumbai",
+    "website": null,
+    "social_presence": null,
+    "contact_info": "hello@primesolutions98.io"
+  },
+  {
+    "name": "Bright Dynamics 99",
+    "category": "Healthcare",
+    "location": "Sydney",
+    "website": "https://www.brightdynamics99.com",
+    "social_presence": "Facebook, Instagram",
+    "contact_info": "hello@brightdynamics99.io"
+  },
+  {
+    "name": "Pure Hub 100",
+    "category": "Fintech",
+    "location": "New York",
+    "website": "https://www.purehub100.com",
+    "social_presence": "LinkedIn, Facebook",
+    "contact_info": "hello@purehub100.io"
+  }
+]
